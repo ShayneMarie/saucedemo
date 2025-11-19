@@ -1,0 +1,11 @@
+{
+    "errorMessages": {
+        "firstNameRequired": "First Name is required",
+        "lastNameRequired": "Last Name is required"
+    },
+    "checkoutInfo": {
+        "firstName": "Shayne",
+        "lastName": "Test",
+        "postalCode": "12345"
+    }
+}
